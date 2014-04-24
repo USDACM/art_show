@@ -21,3 +21,7 @@ Authors: Rachel Lincoln, Brianna Castaldo
 6.
 Title: Chromakey
 Authors: Felicia Wang, Lily Wang, Jennifer Garcia
+
+7.
+Title: Art Show Picture
+Authors: Sami Armstrong and Danielle Watson
